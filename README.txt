@@ -20,9 +20,10 @@ Credits:
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
+	Images:
+		All images are photographs taken by Subhayan Mukerjee.
+
 	Other:
 		jQuery (jquery.com)
 		Misc. Sass functions (@HugoGiraudel)
 		Skel (skel.io)
-
-All images are photographs taken by Subhayan Mukerjee.
